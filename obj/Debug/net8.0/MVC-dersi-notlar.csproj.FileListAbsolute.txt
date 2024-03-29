@@ -28,3 +28,4 @@
 /Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/obj/Debug/net8.0/MVC-dersi-notlar.pdb
 /Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/obj/Debug/net8.0/MVC-dersi-notlar.genruntimeconfig.cache
 /Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/obj/Debug/net8.0/ref/MVC-dersi-notlar.dll
+/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/obj/Debug/net8.0/MVC-dersi-notlar.sourcelink.json
