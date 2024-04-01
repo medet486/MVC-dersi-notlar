@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/MVC-dersi-notlar.csproj": {}
+    "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/Week1/MVC-dersi-notlar.csproj": {}
   },
   "projects": {
-    "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/MVC-dersi-notlar.csproj": {
+    "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/Week1/MVC-dersi-notlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/MVC-dersi-notlar.csproj",
+        "projectUniqueName": "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/Week1/MVC-dersi-notlar.csproj",
         "projectName": "MVC-dersi-notlar",
-        "projectPath": "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/MVC-dersi-notlar.csproj",
+        "projectPath": "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/Week1/MVC-dersi-notlar.csproj",
         "packagesPath": "/Users/medetcinar/.nuget/packages/",
-        "outputPath": "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/obj/",
+        "outputPath": "/Users/medetcinar/Desktop/MVC/MVC-dersi-notlar/Week1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/medetcinar/.nuget/NuGet/NuGet.Config"
