@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTK-Notlar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc0ccc8cd40e6460109d9e4bc6f424be200a7958")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ed424c273077ab252e3aceb560d2b6dbc2a5350")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTK-Notlar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTK-Notlar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
